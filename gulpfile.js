@@ -3,7 +3,7 @@ const browserSync = require('browser-sync').create();
 
 gulp.task('hello', function() {
  	consol.log('Привет, мир!');
- 	done();   // content
+ 	done();   
 });
 
 // Static server
