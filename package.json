@@ -1,0 +1,25 @@
+{
+  "name": "gloacademylessons",
+  "version": "1.0.0",
+  "description": "Учебный проект",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RailyFox/GloAcademyLessons.git"
+  },
+  "author": "Raily Fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RailyFox/GloAcademyLessons/issues"
+  },
+  "homepage": "https://github.com/RailyFox/GloAcademyLessons#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
